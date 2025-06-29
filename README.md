@@ -1,37 +1,18 @@
-# 👋 Hi, I’m Ayush Tammannavar!
+# 💫 About Me:
+## 👋 Hi, I'm Ayush K Tammannavar!<br><br>🎓 I'm an Artificial Intelligence & Data Science student at S.G. Balekundri Institute of Technology, passionate about using **Generative AI** to solve real-world problems.<br><br>🚀 Currently building:<br>- **Vibe** – A solution to reduce short-form content addiction<br>- **Code.ai** – An AI-powered code editor for intelligent development<br><br>🛠️ My stack includes:<br>`Python` | `TensorFlow` | `PyTorch` | `Streamlit` | `HTML/CSS` | `Git`<br><br>📌 Some projects I'm proud of:<br>- 🧓 **Tau** – A digital companion for senior citizens<br>- ⚖️ **Unmute** – A legal awareness chatbot<br>- 💼 **Job Chat** – Career guidance chatbot<br>- 💬 **Mann** – A Gen-Z focused role-based AI listener<br>- 🛒 **Hello Vendors** – Marketplace for street vendors<br><br>🏆 Recognitions:<br>- 🥇 Winner – NASA Space Apps Challenge 2024 (Best Use of Data)<br>- 🥈 2nd Place – Mask of Logic, VENCER @ AITM<br>- 🏅 Best IEEE Student Volunteer 2024<br>- 🏆 State Award for Innovation (2017)<br><br>🌐 Let's connect:<br>[GitHub](https://github.com/ayushcodes404) | [LinkedIn](https://www.linkedin.com/in/ayush-k-tammannavar)<br><br>🧠 Forever curious | 🎤 Speaker | 🤝 Team Leader | 🔬 AI Research Enthusiast<br><br>---<br>“Building with purpose. Learning with passion.”<br>
 
-🎓 **Aspiring AI Engineer** | 💡 **Real-World Problem Solver** | 🤖 **Coding with Purpose**
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush.brew) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushtammannavar@gmail.com) 
 
-### 🚀 About Me
-
-I'm currently pursuing **Artificial Intelligence and Data Science** at  
-**S. G. Balekundri Institute of Technology, Belgaum**.
-
-I'm passionate about building **AI-driven solutions** to solve **real-time problems** that make a meaningful impact. Whether it's data analysis, machine learning, or automating tasks—I'm always up for a challenge.
-
----
-
-### 🛠️ What I Do
-
-- 💻 Code solutions to real-world problems  
-- 📊 Work with data to extract insights and make predictions  
-- 🧠 Explore Artificial Intelligence, Machine Learning, and Deep Learning  
-- ⚙️ Develop smart systems using Python, Excel, and AI frameworks
+# 💻 Tech Stack:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ayushcodes404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ayushcodes404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushcodes404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-### 📊 Some Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushcodes404&show_icons=true&theme=transparent)
----
+[![](https://visitcount.itsvg.in/api?id=Ayushcodes404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-k-tammannavar-886700300)
-📧 **Email:** [ayushtammannavar@gmail.com](mailto:ayushtammannavar@gmail.com)
-
----
-
-> “Code with purpose, solve with passion.”  
-> — Ayush Tammannavar
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
